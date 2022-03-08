@@ -1,4 +1,4 @@
-package com.in28minutes.learning.jpa.jpain10steps;
+package com.jpa;
 
 import java.util.List;
 import java.util.Optional;
